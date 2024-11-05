@@ -2,7 +2,7 @@
 There's an *old* tweak called Screendump that I believe started in either iOS 11 or 12, and has been barely dragged along to sometimes work in rootless iOS 15. This, however, is a guide to get the same functionality on iOS 16 using Dopamine, or in theory any jailbreak (No serotonin doesn't work). Just a warning, I did not create or do any development on this. All I've done is created a condensed guide, easy to follow guide combining knowledge from different posts and tools I've found online.
 
 - Download Trollstore and Newterm from Sileo (Trollstore Filza also works)
-- Download this file on your device https://drive.google.com/file/d/1r6SFJP7Pm6o8TYJfpatxSMnqH1RDZN7F/view?usp=drivesdk
+- Download <a href="https://github.com/Kn0tzer/Vncserverd/releases/download/release/vncserverd.zip">this</a> file on your device
 - Once downloaded, press share and tap Filza. It should open to /var/mobile/Documents
 - Open newterm and run "cd /var/mobile/Documents"
 - Then, run "chmod +x vncserverd" If this is successful, the icon for the file in Filza should have a cog icon in it.
