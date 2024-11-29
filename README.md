@@ -8,7 +8,7 @@ There's an *old* tweak called Screendump that I believe started in either iOS 11
 - Then, run "chmod +x vncserverd" If this is successful, the icon for the file in Filza should have a cog icon in it.
 - Hold down on the file in Filza and press move
 - Move the file to /var/jb/usr/libexec (or /usr/libexec if on a rootful jailbreak)
-- Tap the file and you should get a warning. If you do not get a warning you have done something wrong. Try the steps again or leave a comment.
+- Tap the file and you should get a warning. If you do not get a warning you have done something wrong. Try the steps again or create an issue.
 - Tap continue on the warning
 - Logs should now open. The remote desktop server is running.
 - On your computer, download <a href="https://www.realvnc.com/en/connect/download/viewer/">RealVNC</a>
