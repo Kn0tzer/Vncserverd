@@ -23,4 +23,5 @@ There's an *old* tweak called Screendump that I believe started in either iOS 11
 - On your computer, click OK to close the tab and double click on the box containing your devices ip. You should now be connected.
 
 Tips: In order to connect, your device must have Filza open with the script running, which can be seen by the logs being active.
+
 If you need to respring your device while connected remotely, respring through Trollstore settings to keep your connection active.
