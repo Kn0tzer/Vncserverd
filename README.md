@@ -1,4 +1,4 @@
-<h1>Remote desktop and control your phone from a computer on Dopamine</h1>
+<h1>Control your phone with Dopamine from a computer (Remote desktop)</h1>
 There's an *old* tweak called Screendump that I believe started in either iOS 11 or 12, and has been barely dragged along to sometimes work in rootless iOS 15. This, however, is a guide to get the same functionality on iOS 16 using Dopamine, or in theory any jailbreak (No serotonin doesn't work). Just a warning, I did not create or do any development on this. All I've done is created a condensed guide, easy to follow guide combining knowledge from different posts and tools I've found online. This guide assumes you have *extremely* basic jailbreaking knowledge.<br>
 ⭐❓<br><br>
 
